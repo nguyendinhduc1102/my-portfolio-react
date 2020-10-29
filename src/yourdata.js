@@ -31,7 +31,7 @@ export default
              service:'Reactjs',
              imageSrc:"/images/generator-color.png",
              
-             url:'https://farm-e-w.000webhostapp.com/'
+             url:'https://dd-generator-color.netlify.app/'
             },
         ],
         social: [
