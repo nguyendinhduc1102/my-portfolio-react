@@ -33,6 +33,14 @@ export default
              
              url:'https://dd-generator-color.netlify.app/'
             },
+           {
+            id: 3,
+            title:'Cocktail',
+             service:'Reactjs',
+             imageSrc:"/images/cocktail-project.png",
+             
+             url:'https://dd-cocktail.netlify.app/'
+            },
         ],
         social: [
             
