@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
-import data from '../yourdata'
+import data from '../data'
 
 
 class Header extends Component {
@@ -11,7 +11,8 @@ class Header extends Component {
         <h1 className='heading-background'>Fullstack</h1>
             <header>
                 <h1>
-                    <Fade bottom cascade>{data.name}</Fade></h1>
+                    <Fade bottom cascade><img height='60px'width='150px' src='images/logo.png' alt={data.name}/></Fade>
+                </h1>
             </header>
             <Fade bottom>
             <p className='header-title'>
